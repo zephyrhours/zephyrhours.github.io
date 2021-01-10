@@ -5,13 +5,14 @@ This is a website under construction!
 Now you can browse my others websites:
 1. English Blog: [https://zephyrhoublog.ml/](https://zephyrhoublog.ml/).
 2. Chinese CSDN blog: [https://blog.csdn.net/NBDwo](https://blog.csdn.net/NBDwo)
-welcome to visit !
+
+Welcome to visit !
 
 ### About me
 
 Hello guys, welcome to my website! This is my curriculum vitae.
 
-**Zengfu Hou (侯增福) **
+**Zengfu Hou (侯增福)**
 
 He is currently pursuing the Ph.D. degree in school of information and electronics from Beijing Institute of Technology, where he is engaged in hyperspectral anomaly detection, and hyperspectral change detection.
 
