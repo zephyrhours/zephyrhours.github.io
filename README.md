@@ -8,7 +8,7 @@ Now you can browse my others websites:
 
 Welcome to visit !
 
-### About me
+## About me
 
 Hello guys, welcome to my website! This is my curriculum vitae.
 
@@ -17,12 +17,12 @@ Hello guys, welcome to my website! This is my curriculum vitae.
 He is currently pursuing the Ph.D. degree in school of information and electronics from Beijing Institute of Technology, where he is engaged in hyperspectral anomaly detection, and hyperspectral change detection.
 
 
-### Doctoral Supervisor
+## Doctoral Supervisor
 
 Prof. Wei Li
 [https://fdss.bit.edu.cn/yjdw/js/153191.htm](https://fdss.bit.edu.cn/yjdw/js/153191.htm)
 
-### Publications 
+## Publications 
 
 [1] **Zengfu Hou**, Yu Chen, Kun Tan, and Peijun Du. NOVEL HYPERSPECTRAL ANOMALY DETECTION METHODS BASED ON UNSUPERVISED NEAREST REGULARIZED SUBSPACE[J]. International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences, 2018, 42(3).
 
@@ -48,16 +48,18 @@ Paper Extraction code：ka3i
 
 [9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [Under review]
 
-### Professional affiliations
+## Professional affiliations
 
 **Reviewer** of IEEE Transactions on Geosicence and Remote Sensing (TGRS)
+
 **Reviewer** of IEEE  Signal Processing Letters (SPL)
+
 **Reviewer** of IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)
 
-### Contact
+## Contact
 
 Welcome to exchange and study !
 
-Email: zengf.hou@bit.edu.cn
+**Email:** zengf.hou@bit.edu.cn
 
 The end!
