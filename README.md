@@ -1,5 +1,7 @@
 ## Hello guys, welcome to my website!
 
+一个技术小白的网站，欢迎学习交流！
+
 This is my personal website under construction! Now you can browse my others websites:
 
 1. English Blog: [https://zephyrhoublog.ml/](https://zephyrhoublog.ml/).
@@ -19,6 +21,7 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 ## Doctoral Supervisor
 
 Prof. Wei Li
+
 [https://fdss.bit.edu.cn/yjdw/js/153191.htm](https://fdss.bit.edu.cn/yjdw/js/153191.htm)
 
 ## Publications 
@@ -38,7 +41,7 @@ Prof. Wei Li
 [5] **Zengfu Hou**, Wei Li, Lianru Gao, Bing Zhang, Pengge Ma, and Junlin Sun. A BACKGROUND REFINEMENT COLLABORATIVE REPRESENTATION METHOD WITH SALIENCY WEIGHT FOR HYPERSPECTRAL ANOMALY DETECTION. International Geoscience and Remote Sensing. (2020) [Oral]
 
 
-[6] **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection[J]. SCIENCE CHINA Information Sciences. 2020.
+[6] **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection[J]. SCIENCE CHINA Information Sciences. 2020.
 Paper Extraction code：ka3i
 
 [7] Jun Liu, **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, Danilo Orlando, and Hongbin Li. Multi-Pixel Anomaly Detection With an Unknown Pattern for Hyperspectral Imagery.  IEEE Transactions on Neural Networks and Learning Systems, 2020. [Under review]
