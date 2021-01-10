@@ -1,8 +1,7 @@
 ## Hello guys, welcome to my website!
 
-This is a website under construction!
+This is my personal website under construction! Now you can browse my others websites:
 
-Now you can browse my others websites:
 1. English Blog: [https://zephyrhoublog.ml/](https://zephyrhoublog.ml/).
 2. Chinese CSDN blog: [https://blog.csdn.net/NBDwo](https://blog.csdn.net/NBDwo)
 
