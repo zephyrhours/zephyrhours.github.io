@@ -9,7 +9,7 @@ This is my personal website under construction! Now you can browse my others web
 
 Welcome to visit !
 
-## About me
+## About Me
 
 Hello guys, welcome to my website! This is my curriculum vitae.
 
@@ -50,7 +50,7 @@ Prof. Wei Li
 
 [9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [Under review]
 
-## Professional affiliations
+## Professional Affiliations
 
 **Reviewer** of IEEE Transactions on Geosicence and Remote Sensing (TGRS)
 
