@@ -9,9 +9,10 @@ This is my personal website under construction! Now you can browse my others web
 
 Welcome to visit !
 
-## About Me
 
-Hello guys, welcome to my website! This is my curriculum vitae.
+**This is my curriculum vitae.**
+
+## About Me
 
 **Zengfu Hou(侯增福)**
 
