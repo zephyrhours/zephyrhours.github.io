@@ -16,7 +16,7 @@ Welcome to visit !
 
 **Zengfu Hou(侯增福)**
 
-He is currently pursuing the Ph.D. degree in school of information and electronics from Beijing Institute of Technology, where he is engaged in hyperspectral anomaly detection, and hyperspectral change detection.
+He is currently pursuing the Ph.D. degree in school of information and electronics from Beijing Institute of Technology, where he is engaged in hyperspectral anomaly detection, hyperspectral target detection, and hyperspectral change detection.
 
 
 ## Doctoral Supervisor
