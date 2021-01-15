@@ -47,7 +47,7 @@ Prof. Wei Li
 
 [7] Jun Liu, **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, Danilo Orlando, and Hongbin Li. Multi-Pixel Anomaly Detection With an Unknown Pattern for Hyperspectral Imagery.  IEEE Transactions on Neural Networks and Learning Systems, 2020. [Under review]
 
-[8] **Zengfu Hou**, Wei Li, Lu Li, Ran Tao, and Qian Du. Hyperspectral Change Detection Based on Multiple Morphological Profiles.  IEEE Transactions on Geosicence and Remote Sensing, 2020. [Under review]
+[8] **Zengfu Hou**, Wei Li, Lu Li, Ran Tao, and Qian Du. Hyperspectral Change Detection Based on Multiple Morphological Profiles.  IEEE Transactions on Geoscience and Remote Sensing, 2020. [Under review]
 
 [9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [Under review]
 
