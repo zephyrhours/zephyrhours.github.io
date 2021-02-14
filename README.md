@@ -51,6 +51,12 @@ Prof. Wei Li
 
 [9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [Under review]
 
+[10] Xiaobin Zhao, **Zengfu Hou**, Wei Li, Ran Tao. Fractional Domain-Based Revised Constrained Energy Minimization for Hyperspectral Target Detection. SCIENCE CHINA Information Sciences. 2020.[Under review]
+
+
+
+
+
 ## Professional Affiliations
 
 **Reviewer** of IEEE Transactions on Geosicence and Remote Sensing (TGRS)
