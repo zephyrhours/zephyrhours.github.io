@@ -33,10 +33,10 @@ Prof. Wei Li
 [2] **Zengfu Hou**, Kun Tan, Yu Chen, and Peijun Du. AN IMPROVED UNSUPERVISED NEAREST REGULARIZED SUBSPACE METHOD FOR HYPERSPECTRAL ANOMALY DETECTION. International Conference on Advanced Remote Sensing. (2018)
 
 
-[3] Kun Tan, **Zengfu Hou**, Dongelei Ma, Yu Chen, and Qian Du. Anomaly detection in hyperspectral imagery based on low-rank representation incorporating a spatial constraint[J]. Remote Sensing, 2019, 11(13): 1578.
+[3] Kun Tan, **Zengfu Hou**, Dongelei Ma, Yu Chen, and Qian Du. Anomaly detection in hyperspectral imagery based on low-rank representation incorporating a spatial constraint[J]. Remote Sensing, 2019, 11(13): 1578. [Co-first author]
 
 
-[4] Kun Tan, **Zengfu Hou**, Fuyu Wu, Qian Du, and Yu Chen. Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation[J]. Remote Sensing, 2019, 11(11): 1318.
+[4] Kun Tan, **Zengfu Hou**, Fuyu Wu, Qian Du, and Yu Chen. Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation[J]. Remote Sensing, 2019, 11(11): 1318. [Co-first author]
 
 
 [5] **Zengfu Hou**, Wei Li, Lianru Gao, Bing Zhang, Pengge Ma, and Junlin Sun. A BACKGROUND REFINEMENT COLLABORATIVE REPRESENTATION METHOD WITH SALIENCY WEIGHT FOR HYPERSPECTRAL ANOMALY DETECTION. International Geoscience and Remote Sensing. (2020) [Oral]
@@ -52,9 +52,6 @@ Prof. Wei Li
 [9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [Under review]
 
 [10] Xiaobin Zhao, **Zengfu Hou**, Wei Li, and Ran Tao. Fractional Domain-Based Revised Constrained Energy Minimization for Hyperspectral Target Detection. SCIENCE CHINA Information Sciences. 2021. [Under review]
-
-
-
 
 
 ## Professional Affiliations
