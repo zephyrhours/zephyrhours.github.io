@@ -1,9 +1,10 @@
 ## [Hello guys, welcome to my website!](https://zephyrhours.github.io/)
 
 一个技术小白的网站，欢迎学习交流！
+
 [https://zephyrhours.github.io/](https://zephyrhours.github.io/)
 
-This is my personal website under construction! Now you can browse my others websites:
+This is my github website under construction! Now you can browse my others websites:
 
 1. English Blog: [https://zephyrhoublog.ml/](https://zephyrhoublog.ml/)
 2. Chinese CSDN blog: [https://blog.csdn.net/NBDwo](https://blog.csdn.net/NBDwo)
