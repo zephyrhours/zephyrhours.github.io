@@ -1,4 +1,4 @@
-## Hello guys, welcome to my website!
+## [Hello guys, welcome to my website!](https://zephyrhours.github.io/)
 
 一个技术小白的网站，欢迎学习交流！
 
