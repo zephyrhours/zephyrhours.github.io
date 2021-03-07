@@ -1,6 +1,7 @@
 ## [Hello guys, welcome to my website!](https://zephyrhours.github.io/)
 
-一个技术小白的网站，欢迎学习交流！[https://zephyrhours.github.io/](https://zephyrhours.github.io/)
+一个技术小白的网站，欢迎学习交流！
+[https://zephyrhours.github.io/](https://zephyrhours.github.io/)
 
 This is my personal website under construction! Now you can browse my others websites:
 
