@@ -59,11 +59,11 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 mx-auto">
           <div class="post-heading">
-            <h1>Matlab Program of Automatically Generating HDR File when Saving Remote Sensing Image.</h1>
+            <h1>Drawing Normal Distribution Curve and its Confidence Interval with MATLAB.</h1>
 <!--            <h2 class="subheading">Problems look mighty small from 150 miles up</h2>-->
             <span class="meta">Posted by
               <a href="https://zephyrhours.github.io/">Zengfu Hou</a>
-              on March 07, 2021</span>
+              on March 09, 2021</span>
           </div>
         </div>
       </div>
@@ -79,59 +79,51 @@
         <p><b>Email :</b> zengf.hou@bit.edu.cn</p>
         <p>Welcome to exchange and study！</p>
         <hr>    
-        <p>The following code is based on Matlab 2018b.</p>    
-<pre class="sh_python">
+        <p> Using Matlab can also draw a beautiful confidence interval and normal distribution Curve curve, the following lists the specific code. <b>It's worth noting that the following code is based on Matlab 2018b. </b></p>    
+
+<pre class="sh_matlab">
 %% ==================================================
-%% save the results
+% Author: Zephyr Hou
+% Time: 2020-09-26
+%% Main Function
+clc;clear;close all;
 
-[FileName, PathName] = uiputfile({'*.img';'*.mat';'*.m';'*.slx';'*.*'},'Save The Result Images As');
+x=-4:0.01:4;
+y=gaussmf(x,[1,0]);
+plot(x,y,'b','LineWidth',2);hold on;
+axis([-4 4 0 1.001])
 
-% 对文件保持窗口选择是否保存进行判断
-if isequal(FileName,0) || isequal(PathName,0)  
-    disp('User pressed cancel')
-else
-    disp(['Save The Result Images As:  ', fullfile(PathName, FileName)])
-    savefile_name=strcat(PathName,FileName);
-%     disp('Save The Result Images As：');
-%     disp(savefile_name);
-    % 利用matlab自带multibandwrite函数将矩阵转换成tif文件格式，第一个参数gt是需要写入的矩阵，第二参数为存储路径和命名
-    multibandwrite(result_img,char(savefile_name),'bsq','machfmt','ieee-le','precision','double'); % 注意：此处表名，gt为double精度的tif格式
-
-%%============Here is the HDR file generation program=================
-% generate *.hdr file
-    h1='ENVI';
-    h2='description = { Binary Data }';
-    h3=['samples = ',num2str(cols)];         % 使用矩阵形式，可以将空格写入TXT文本文件中，使用strcat则无法写入空格
-    h4=['lines   = ',num2str(rows)];
-    h5=['bands   = ',num2str(bands)];
-    h6='header offset = 0';
-    h7='file type = ENVI Standard';
-    h8='data type = 5';
-    h9='interleave = bsq';
-    h10='sensor type = Unknown';
-    h11='byte order = 0';
-    h12='wavelength units = Unknown';
-    h={};
-    h={h1;h2;h3;h4;h5;h6;h7;h8;h9;h10;h11;h12};
-
-    if ~isempty(strfind(FileName,'.'))==0;
-        fid=fopen(strcat(PathName,strcat(FileName,'.hdr')),'wt');
-    else
-        hdr_nam=FileName(1:end-4);
-        hdr_name=strcat(hdr_nam,'.hdr');
-        fid=fopen(strcat(PathName,hdr_name),'wt');
-    end
-    for i=1:12;
-      fprintf(fid,'%s\n',h{i}); 
-    end
-    fclose(fid);
-    % save all results
-    save(strcat(PathName,'result_BilaterFilter.mat'))
+%% 置信区间边界
+plot([-2,-2],[0,gaussmf(-2,[1,0])],'k','LineWidth',2);hold on
+plot([2,2],[0,gaussmf(2,[1,0])],'k','LineWidth',2);hold on
+%% 置信区间颜色填充
+for i=1:floor(length(x)/4)
+    plot([x(i),x(i)],[0,gaussmf(x(i),[1,0])],'Color',[0.35,0,0.6],'LineWidth',2);hold on 
 end
+for i=1:floor(length(x)/4)
+    ind=x(x>2);
+    plot([ind(i),ind(i)],[0,gaussmf(ind(i),[1,0])],'Color',[0.35,0,0.6],'LineWidth',2);hold on 
+end
+%% 图中标注设置
+set(gca,'XTicklabel',{' ',' ','\mu-2\sigma',' ','\mu',' ','\mu+2\sigma',' '},'fontsize',15)
+set(gca,'YTicklabel',[])
+annotation('arrow',[0.27,0.30],[0.24,0.20],'LineWidth',2)
+annotation('arrow',[0.76,0.73],[0.24,0.20],'LineWidth',2)
+text(-3,0.20,'\alpha/2=0.025','color','r','fontsize',15)
+text(2.1,0.20,'\alpha/2=0.025','color','r','fontsize',15)
+
+title('The 95% confidence interval for \mu','fontsize',15)
 %% ===================================================
-</pre>    
+</pre>  
             
-                 
+<p>The operation results is as follows：</p>
+<img class="img-fluid" src="img/post5/post5-1.png">   
+
+<p><b>Reference:</b></p>      
+<p>If you use this program to draw a normal distribution curve, please cite the following paper.
+<ul><li><a href="https://engine.scichina.com/publisher/scp/journal/SCIS/doi/10.1007/s11432-020-2915-2?slug=abstract">Zengfu Hou, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection[J]. SCIENCE CHINA Information Sciences. 2020.</a></li></ul></p> 
+      
+
             
         </div>
       </div>
