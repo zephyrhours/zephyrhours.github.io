@@ -55,6 +55,9 @@ Prof. Wei Li
 
 [10] Xiaobin Zhao, **Zengfu Hou**, Wei Li, and Ran Tao. Fractional Domain-Based Revised Constrained Energy Minimization for Hyperspectral Target Detection. SCIENCE CHINA Information Sciences. 2021. [Under review]
 
+[11] Jun Liu, Siyu Sun, **Zengfu Hou**, and Wei Li. Wald Test for Multi-Pixel Anomaly Detection in Hyperspectral Images. IEEE Geoscience and Remote Sensing Letters. 2021. [Under review]
+
+
 
 ## Professional Affiliations
 
