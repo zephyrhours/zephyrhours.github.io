@@ -6,7 +6,7 @@
 
 This is my github website under construction! Now you can browse my others websites:
 
-1. English Blog: [https://zephyrhoublog.ml/](https://zephyrhoublog.ml/)
+1. English Blog: [https://zephyrhoublog.ml/](https://zephyrhoublog.ml/). This website will be unavailable in mid-May, 2021.
 2. Chinese CSDN blog: [https://blog.csdn.net/NBDwo](https://blog.csdn.net/NBDwo)
 
 Welcome to visit !
