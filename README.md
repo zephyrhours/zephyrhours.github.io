@@ -51,11 +51,13 @@ Prof. Wei Li
 
 [8] **Zengfu Hou**, Wei Li, Lu Li, Ran Tao, and Qian Du. Hyperspectral Change Detection Based on Multiple Morphological Profiles.  IEEE Transactions on Geoscience and Remote Sensing, 2020. [Under review]
 
-[9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [Under review]
+[9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [Accepted]
 
 [10] Xiaobin Zhao, **Zengfu Hou**, Wei Li, and Ran Tao. Fractional Domain-Based Revised Constrained Energy Minimization for Hyperspectral Target Detection. SCIENCE CHINA Information Sciences. 2021. [Under review]
 
 [11] Jun Liu, Siyu Sun, **Zengfu Hou**, and Wei Li. Wald Test for Multi-Pixel Anomaly Detection in Hyperspectral Images. IEEE Geoscience and Remote Sensing Letters. 2021. [Under review]
+
+[12] **Zengfu Hou**, Wei Li, Ran Tao, and Qian Du. Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2021. [Under review]
 
 
 
