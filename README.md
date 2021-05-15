@@ -47,7 +47,8 @@ Prof. Wei Li
 [6] **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection[J]. SCIENCE CHINA Information Sciences. 2020.
 
 
-[7] Jun Liu, **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, Danilo Orlando, and Hongbin Li. Multi-Pixel Anomaly Detection With an Unknown Pattern for Hyperspectral Imagery.  IEEE Transactions on Neural Networks and Learning Systems, 2020.
+[7] Jun Liu, **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, Danilo Orlando, and Hongbin Li. Multi-Pixel Anomaly Detection With an Unknown Pattern for Hyperspectral Imagery.  IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2021.3071026.
+
 
 [8] **Zengfu Hou**, Wei Li, Lu Li, Ran Tao, and Qian Du. Hyperspectral Change Detection Based on Multiple Morphological Profiles.  IEEE Transactions on Geoscience and Remote Sensing, 2020. [Under review]
 
