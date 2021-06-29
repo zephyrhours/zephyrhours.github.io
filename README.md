@@ -5,9 +5,7 @@
 [https://zephyrhours.github.io/](https://zephyrhours.github.io/)
 
 This is my github website under construction! Now you can browse my others websites:
-
-1. English Blog: [https://zephyrhours.github.io/](https://zephyrhours.github.io/). 
-2. Chinese CSDN blog: [https://blog.csdn.net/NBDwo](https://blog.csdn.net/NBDwo)
+1. Chinese CSDN blog: [https://blog.csdn.net/NBDwo](https://blog.csdn.net/NBDwo)
 
 Welcome to visit !
 
