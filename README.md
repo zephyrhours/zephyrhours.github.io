@@ -44,7 +44,7 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 [8] **Zengfu Hou**, Wei Li, Lu Li, Ran Tao, and Qian Du. Hyperspectral Change Detection Based on Multiple Morphological Profiles.  IEEE Transactions on Geoscience and Remote Sensing, 2020. [In print]
 
-[9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [Accepted]
+[9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [In print]
 
 
 [10] **Zengfu Hou**, Wei Li, Ran Tao, and Qian Du. Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2021. 
