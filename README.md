@@ -21,37 +21,29 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 ## Publications 
 
-[1] **Zengfu Hou**, Yu Chen, Kun Tan, and Peijun Du. NOVEL HYPERSPECTRAL ANOMALY DETECTION METHODS BASED ON UNSUPERVISED NEAREST REGULARIZED SUBSPACE[J]. International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences, 2018, 42(3).
+[1] **Zengfu Hou**, Yu Chen, Kun Tan, and Peijun Du. NOVEL HYPERSPECTRAL ANOMALY DETECTION METHODS BASED ON UNSUPERVISED NEAREST REGULARIZED SUBSPACE[C]. International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences, 2018, 42(3).
 
-
-[2] **Zengfu Hou**, Kun Tan, Yu Chen, and Peijun Du. AN IMPROVED UNSUPERVISED NEAREST REGULARIZED SUBSPACE METHOD FOR HYPERSPECTRAL ANOMALY DETECTION. International Conference on Advanced Remote Sensing. (2018)
-
+[2] **Zengfu Hou**, Kun Tan, Yu Chen, and Peijun Du. AN IMPROVED UNSUPERVISED NEAREST REGULARIZED SUBSPACE METHOD FOR HYPERSPECTRAL ANOMALY DETECTION[C]. International Conference on Advanced Remote Sensing. (2018)
 
 [3] Kun Tan, **Zengfu Hou**, Dongelei Ma, Yu Chen, and Qian Du. Anomaly detection in hyperspectral imagery based on low-rank representation incorporating a spatial constraint[J]. Remote Sensing, 2019, 11(13): 1578. [Co-first author]
 
-
 [4] Kun Tan, **Zengfu Hou**, Fuyu Wu, Qian Du, and Yu Chen. Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation[J]. Remote Sensing, 2019, 11(11): 1318. [Co-first author]
 
+[5] **Zengfu Hou**, Wei Li, Lianru Gao, Bing Zhang, Pengge Ma, and Junlin Sun. A BACKGROUND REFINEMENT COLLABORATIVE REPRESENTATION METHOD WITH SALIENCY WEIGHT FOR HYPERSPECTRAL ANOMALY DETECTION[C]. International Geoscience and Remote Sensing, 2020.
 
-[5] **Zengfu Hou**, Wei Li, Lianru Gao, Bing Zhang, Pengge Ma, and Junlin Sun. A BACKGROUND REFINEMENT COLLABORATIVE REPRESENTATION METHOD WITH SALIENCY WEIGHT FOR HYPERSPECTRAL ANOMALY DETECTION. International Geoscience and Remote Sensing. (2020) 
+[6] **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection[J]. SCIENCE CHINA Information Sciences, 2020.
 
+[7] Jun Liu, **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, Danilo Orlando, and Hongbin Li. Multi-Pixel Anomaly Detection With an Unknown Pattern for Hyperspectral Imagery[J]. IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2021.3071026, 2021.
 
-[6] **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection[J]. SCIENCE CHINA Information Sciences. 2020.
+[8] **Zengfu Hou**, Wei Li, Lu Li, Ran Tao, and Qian Du. Hyperspectral Change Detection Based on Multiple Morphological Profiles[J].  IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3090802, 2021.
 
+[9] **Zengfu Hou**, Wei Li, Ran Tao, and Qian Du. Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2021. 
 
-[7] Jun Liu, **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, Danilo Orlando, and Hongbin Li. Multi-Pixel Anomaly Detection With an Unknown Pattern for Hyperspectral Imagery. IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2021.3071026.
+[10] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES[C]. International Geoscience and Remote Sensing, 2021. [In print]
 
+[11] Jun Liu, Siyu Sun, **Zengfu Hou**, and Wei Li. Wald Test for Multi-Pixel Anomaly Detection in Hyperspectral Images. IEEE Transactions on Aerospace and Electronic Systems. 2021. [Corresponding author, Under review]
 
-[8] **Zengfu Hou**, Wei Li, Lu Li, Ran Tao, and Qian Du. Hyperspectral Change Detection Based on Multiple Morphological Profiles.  IEEE Transactions on Geoscience and Remote Sensing, 2020. [In print]
-
-[9] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES. International Geoscience and Remote Sensing. (2021) [In print]
-
-
-[10] **Zengfu Hou**, Wei Li, Ran Tao, and Qian Du. Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2021. 
-
-[11] Xiaobin Zhao, **Zengfu Hou**, Wei Li, and Ran Tao. Fractional Domain-Based Revised Constrained Energy Minimization for Hyperspectral Target Detection. SCIENCE CHINA Information Sciences. 2021. [Under review]
-
-[12] Jun Liu, Siyu Sun, **Zengfu Hou**, and Wei Li. Wald Test for Multi-Pixel Anomaly Detection in Hyperspectral Images. IEEE Transactions on Aerospace and Electronic Systems. 2021. [Corresponding author, Under review]
+[12] Xiaobin Zhao, **Zengfu Hou**, Wei Li, Pengge Ma,Ran Tao, Zhaoyi Ye. Fractional Domain-Based Revised Constrained Energy Minimization for Hyperspectral Target Detection. International Journal of Applied Earth Observations and Geoinformation. 2021. [Under review]
 
 
 
