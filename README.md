@@ -43,7 +43,6 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 [11] Jun Liu, Siyu Sun, **Zengfu Hou**, and Wei Li. Wald Test for Multi-Pixel Anomaly Detection in Hyperspectral Images. IEEE Transactions on Aerospace and Electronic Systems. 2021. [Corresponding author, Under review]
 
-[12] Xiaobin Zhao, **Zengfu Hou**,Xin Wu, Wei Li, Pengge Ma, and Ran Tao. Hyperspectral Target Detection based on Transform Domain Adaptive Constrained Energy Minimization. International Journal of Applied Earth Observations and Geoinformation. https://doi.org/10.1016/j.jag.2021.1024612021. [In Print]
 
 
 ## Professional Affiliations
