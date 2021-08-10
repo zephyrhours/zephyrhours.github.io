@@ -41,7 +41,9 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 [10] **Zengfu Hou**, Wei Li, and Qian Du. A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES[C]. International Geoscience and Remote Sensing, 2021. [In print]
 
-[11] Jun Liu, Siyu Sun, **Zengfu Hou**, and Wei Li. Wald Test for Multi-Pixel Anomaly Detection in Hyperspectral Images. IEEE Transactions on Aerospace and Electronic Systems. 2021. [Corresponding author, Under review]
+[11] Xiaobin Zhao, **Zengfu Hou**, Xin Wu, Wei Li, Pengge Ma, and Ran Tao. Hyperspectral target detection based on transform domain adaptive constrained energy minimization[J]. International Journal of Applied Earth Observation and Geoinformation, 103 (2021): 102461.
+
+[12] Jun Liu, Siyu Sun, **Zengfu Hou**, and Wei Li. Wald Test for Multi-Pixel Anomaly Detection in Hyperspectral Images. IEEE Transactions on Aerospace and Electronic Systems. 2021. [Corresponding author, Under review]
 
 
 
