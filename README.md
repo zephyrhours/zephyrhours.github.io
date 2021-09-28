@@ -61,6 +61,5 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 Welcome to exchange and study !
 
-**Email:** zengf.hou@bit.edu.cn
 
 ## The end!
