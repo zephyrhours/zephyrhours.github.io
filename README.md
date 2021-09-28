@@ -61,7 +61,7 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 Welcome to exchange and study !
 
-<a href="http://scr.im/hzfrs">z...@1...6.com</a>
+If you have any other questions, you can send it to my email (See Github Website). I will get back to you as soon as possible!
 
 
 ## The end!
