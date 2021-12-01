@@ -47,7 +47,7 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 
 
-## Professional Affiliations
+## Socail Affiliations
 
 **Reviewer** of IEEE Transactions on Geosicence and Remote Sensing (TGRS)
 
