@@ -59,8 +59,6 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 ## Contact
 
-Welcome to exchange and study !
-
 If you have any other questions, you can send it to my email (See Github Website). I will get back to you as soon as possible!
 
 
