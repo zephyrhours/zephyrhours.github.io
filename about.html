@@ -217,6 +217,43 @@
   
  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ic0luhudhm&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=times_new_roman&amp;l=49&amp;s=341" async="async"></script>
 
+  <div id="article"></div>
+<div id="back_top">
+<div class="arrow"></div>
+<div class="stick"></div>
+</div>
+
+<script>
+$(function(){
+    $(window).scroll(function(){  //If scroll
+        var scrollt = document.documentElement.scrollTop + document.body.scrollTop; //Getting Height after scroll
+        if( scrollt >400 )
+        {  
+            $("#back_top").fadeIn(400); 
+        }
+        else
+        {
+            $("#back_top").stop().fadeOut(400);
+        }
+    });
+
+    $("#back_top").click(function(){ 
+
+        $("html,body").animate({scrollTop:"0px"}, 200);
+
+    }); 
+
+});
+</script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   <hr>
   <!-- Footer -->
