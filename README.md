@@ -61,7 +61,7 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 **Active Reviewer** of International Journal of Atmospheric and Oceanic Sciences (IJAOS)
 
-**Active Reviewer of the 6th International Conference on Computer Science and Application Engineering (CSAE2022)
+**Active Reviewer** of the 6th International Conference on Computer Science and Application Engineering (CSAE2022)
 
 
 **Senior consultant** of Hebei Geoyitu Technology Co., Ltd
