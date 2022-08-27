@@ -55,9 +55,14 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 **Active Reviewer** of IEEE  Signal Processing Letters (SPL)
 
-**Active Reviewer** of IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTAR)
+**Active Reviewer** of IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)
+
+**Active Reviewer** of Infrared Physics and Technology (INFPHY)
 
 **Active Reviewer** of International Journal of Atmospheric and Oceanic Sciences (IJAOS)
+
+**Active Reviewer of the 6th International Conference on Computer Science and Application Engineering (CSAE2022)
+
 
 **Senior consultant** of Hebei Geoyitu Technology Co., Ltd
 
