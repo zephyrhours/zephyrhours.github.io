@@ -16,7 +16,9 @@ Welcome to visit !
 
 **Zengfu Hou(侯增福)**
 
-He is currently pursuing the Ph.D. degree in school of information and electronics from Beijing Institute of Technology, where he is engaged in hyperspectral anomaly detection, hyperspectral target detection, hyperspectral change detection, and target tracking in hyperspectral video.
+In June 2023, I earned my Ph.D. from Beijing Institute of Technology (BIT) with a major in Information and Communication Engineering. From July 2023 to June 2025, I was employed by Beijing Honor Terminal Co.,Ltd. as a senior engineer in graphics and image algorithm. And I am currently a lecturer at the School of Information and Electrical Engineering, Hebei University of Engineering (HUE).
+
+My research interests are pattern recognition and hyperspectral image processing, including anomaly detection, target detection, change detection and object tracking, image quality assessment, etc..
 
 
 ## Publications 
@@ -51,6 +53,8 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 
 ## Socail Affiliations
 
+**Active Reviewer** of IEEE Transactions on Image Processing (TIP)
+
 **Active Reviewer** of IEEE Transactions on Geosicence and Remote Sensing (TGRS)
 
 **Active Reviewer** of IEEE  Signal Processing Letters (SPL)
@@ -62,9 +66,6 @@ He is currently pursuing the Ph.D. degree in school of information and electroni
 **Active Reviewer** of International Journal of Atmospheric and Oceanic Sciences (IJAOS)
 
 **Active Reviewer** of the 6th International Conference on Computer Science and Application Engineering (CSAE2022)
-
-
-**Senior consultant** of Hebei Geoyitu Technology Co., Ltd
 
 ## Contact
 
