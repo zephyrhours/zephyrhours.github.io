@@ -1,163 +1,197 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-
-  <title>Zengfu Hou - Home</title>
-
-  <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Custom fonts for this template -->
-  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-  <!-- Custom styles for this template -->
-  <link href="css/clean-blog.min.css" rel="stylesheet">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Zengfu Hou - Lecturer at Hebei University of Engineering. Research in hyperspectral image processing, change detection, anomaly detection, and object tracking.">
+  <meta name="author" content="Zengfu Hou">
+  <title>Zengfu Hou | Academic Homepage</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+Pro:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
 </head>
-    
-<!-- 整个页面的主体 -->
 <body>
 
-  <!-- Navigation --> <!-- 导航栏设置 -->
-  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-    <div class="container">
-      <a class="navbar-brand" href="index.html">Zephyr</a>
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        Menu<i class="fas fa-bars"></i>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="index.html">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="sources.html">Sources</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
-          </li>
-        </ul>
-      </div>
+  <!-- Navigation -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-container">
+      <a class="nav-brand" href="index.html">Zengfu. Hou</a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">&#9776;</button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="sources.html">Resources</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
     </div>
   </nav>
 
-  <!-- Page Header --> <!-- 主页的标题及背景设置 -->
-  <header class="masthead" style="background-image: url('img/home-bg.jpg')">
-    <div class="overlay"></div>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Zengfu Hou</h1>
+      <p class="subtitle">Pattern Recognition &amp; Hyperspectral Image Processing</p>
+      <p class="affiliation">Lecturer, School of Information and Electrical Engineering<br>Hebei University of Engineering</p>
+      <div class="hero-links">
+        <a href="about.html" class="btn-primary">View Profile</a>
+        <a href="sources.html" class="btn-outline">Resources &darr;</a>
+        <a href="https://scholar.google.com/citations?user=FsNcDUEAAAAJ" target="_blank" rel="noopener" class="btn-outline">Google Scholar</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Research Interests -->
+  <section class="section">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-12 col-md-12 mx-auto">
-          <div class="site-heading">
-            <h1>Zengfu Hou' Blog</h1>
-            <span class="subheading">Sharing some image processing technology!</span>
+      <h2 class="section-title">Research Interests</h2>
+      <div class="research-grid">
+        <div class="research-card">
+          <span class="icon">&#128225;</span>
+          <h3>Hyperspectral Change Detection</h3>
+          <p>Morphological profiles, tensor decomposition, and deep learning for detecting changes in hyperspectral imagery.</p>
+        </div>
+        <div class="research-card">
+          <span class="icon">&#127919;</span>
+          <h3>Anomaly Detection</h3>
+          <p>Collaborative representation, subspace methods, and spectral-spatial fusion for detecting anomalies without prior information.</p>
+        </div>
+        <div class="research-card">
+          <span class="icon">&#128065;</span>
+          <h3>Object Tracking</h3>
+          <p>Siamese networks, tensor sparse correlation filters, and band attention grouping for hyperspectral video tracking.</p>
+        </div>
+        <div class="research-card">
+          <span class="icon">&#128202;</span>
+          <h3>Image Quality Assessment</h3>
+          <p>Evaluating and enhancing quality of remote sensing and infrared imagery.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Selected Publications -->
+  <section class="section" style="background: #f0f3f7;">
+    <div class="container">
+      <h2 class="section-title">Selected Publications</h2>
+      <div class="featured-pubs">
+        <div class="pub-item">
+          <div class="pub-title">SiamBAG: Band Attention Grouping-based Siamese Object Tracking Network for Hyperspectral Videos</div>
+          <div class="pub-authors">Wei Li, <b>Zengfu Hou</b>, Jun Zhou, and Ran Tao</div>
+          <div class="pub-venue">IEEE Transactions on Geoscience and Remote Sensing, 2023</div>
+          <div class="pub-links">
+            <a href="https://ieeexplore.ieee.org/document/10149343" target="_blank" rel="noopener">Paper</a>
+            <a href="https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG" target="_blank" rel="noopener">Code</a>
+          </div>
+        </div>
+        <div class="pub-item">
+          <div class="pub-title">Spatial-spatial Weighted and Regularized Tensor Sparse Correlation Filter for Object Tracking in Hyperspectral Videos</div>
+          <div class="pub-authors"><b>Zengfu Hou</b>, Wei Li, Jun Zhou, and Ran Tao</div>
+          <div class="pub-venue">IEEE Transactions on Geoscience and Remote Sensing, 2022, vol. 60</div>
+          <div class="pub-links">
+            <a href="https://ieeexplore.ieee.org/document/9924160" target="_blank" rel="noopener">Paper</a>
+            <a href="https://github.com/zephyrhours/Hyperspectral-Object-Tracking-TSCFW" target="_blank" rel="noopener">Code</a>
+          </div>
+        </div>
+        <div class="pub-item">
+          <div class="pub-title">Hyperspectral Change Detection Based on Multiple Morphological Profiles</div>
+          <div class="pub-authors"><b>Zengfu Hou</b>, Wei Li, Lu Li, Ran Tao, and Qian Du</div>
+          <div class="pub-venue">IEEE Transactions on Geoscience and Remote Sensing, 2022, vol. 60</div>
+          <div class="pub-links">
+            <a href="https://ieeexplore.ieee.org/document/9469924" target="_blank" rel="noopener">Paper</a>
+            <a href="https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles" target="_blank" rel="noopener">Code</a>
           </div>
         </div>
       </div>
+      <p class="mt-2 text-center"><a href="about.html#publications">View all publications &rarr;</a></p>
     </div>
-  </header>
+  </section>
 
-  <!-- Main Content --> <!-- 主页的Blog预览部分设置 -->
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 col-md-12 mx-auto">     
-        <!--第一个blog内容预览-->  
-        <div class="post-preview">
-          <a href="post1.html">
-            <h2 class="post-title">
-              A Detailed Installation and Configuration Processing of OpenCV 3.4.1 and Visual Studio 2017.
-            </h2>
-          </a>
-          <p class="post-meta">Posted by
-             <a href="https://zephyrhours.github.io/">Zengfu Hou</a>
-            on March 7, 2021</p>
-        </div>  
-        
-          
-        <hr>  <!--该命令用于创建一条水平线-->       
-        <!--第三个blog内容预览--> 
-        <div class="post-preview">
-          <a href="post3.html">
-            <h2 class="post-title">
-              Matlab Program of Automatically Generating HDR File when Saving Remote Sensing Image.
-            </h2>
-<!--
-            <h3 class="post-subtitle">
-              We predict too much for the next year and yet far too little for the next ten.
-            </h3>
--->
-          </a>
-          <p class="post-meta">Posted by
-            <a href="https://zephyrhours.github.io/">Zengfu Hou</a>
-             on March 7, 2021</p>
-        </div>
-        <hr>
-          
-        <!--第四个blog内容预览--> 
-        <div class="post-preview">
-          <a href="post4.html">
-            <h2 class="post-title">
-              Using GDAL Library in Python to Read Remote Sensing Image.
-            </h2>
-          </a>
-          <p class="post-meta">Posted by
-            <a href="https://zephyrhours.github.io/">Zengfu Hou</a>
-            on March 7, 2021</p>
-        </div>
-          
-          
-        <!--第五个blog内容预览--> 
-        <div class="post-preview">
-          <a href="post5.html">
-            <h2 class="post-title">
-              Drawing Normal Distribution Curve and its Confidence Interval with MATLAB.
-            </h2>
-          </a>
-          <p class="post-meta">Posted by
-            <a href="https://zephyrhours.github.io/">Zengfu Hou</a>
-            on March 9, 2021</p>
-        </div>
-          
-          
-        <!-- Pager --> <!-- 页面底部按钮设置 -->
-        <div class="clearfix">
-          <a class="btn btn-primary float-right" href="#">Older Posts &rarr;</a>
-        </div>  
-      </div>
-    </div>
-  </div>
-
-  <hr>
-
-  <!-- Footer --> <!-- 页面最下面的脚注设置 -->
-  <footer>
+  <!-- Quick Links -->
+  <section class="section">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-12 col-md-12 mx-auto">
-            
-        <p class="copyright text-muted">Copyright &copy; zephyrhours.github.io 2021-2023</p>
-        </div>
+      <h2 class="section-title">Quick Links</h2>
+      <div class="quick-links">
+        <a class="quick-link-card" href="https://github.com/zephyrhours" target="_blank" rel="noopener">
+          <div class="ql-icon">&#128187;</div>
+          <div class="ql-text">
+            <h4>GitHub</h4>
+            <p>Open-source codes and projects</p>
+          </div>
+        </a>
+        <a class="quick-link-card" href="https://scholar.google.com/citations?user=FsNcDUEAAAAJ" target="_blank" rel="noopener">
+          <div class="ql-icon">&#127891;</div>
+          <div class="ql-text">
+            <h4>Google Scholar</h4>
+            <p>Publication list and citations</p>
+          </div>
+        </a>
+        <a class="quick-link-card" href="https://dblp.org/pid/248/0819.html" target="_blank" rel="noopener">
+          <div class="ql-icon">&#128218;</div>
+          <div class="ql-text">
+            <h4>DBLP</h4>
+            <p>Bibliography database</p>
+          </div>
+        </a>
+        <a class="quick-link-card" href="https://blog.csdn.net/NBDwo" target="_blank" rel="noopener">
+          <div class="ql-icon">&#9997;&#65039;</div>
+          <div class="ql-text">
+            <h4>CSDN Blog</h4>
+            <p>Chinese technical blog</p>
+          </div>
+        </a>
       </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2021&ndash;2026 Zengfu Hou. All rights reserved.</p>
     </div>
   </footer>
-    
- <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Custom scripts for this template -->
-  <script src="js/clean-blog.min.js"></script>
+  <!-- Back to Top -->
+  <button class="back-to-top" id="backToTop" aria-label="Back to top">&uarr;</button>
 
+  <script>
+    // Mobile nav toggle
+    var toggle = document.getElementById('navToggle');
+    var links = document.getElementById('navLinks');
+    toggle.addEventListener('click', function() {
+      links.classList.toggle('open');
+    });
+
+    // Navbar scroll effect
+    var navbar = document.getElementById('navbar');
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 50) {
+        navbar.classList.add('scrolled');
+      } else {
+        navbar.classList.remove('scrolled');
+      }
+    });
+
+    // Back to top
+    var btn = document.getElementById('backToTop');
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 400) {
+        btn.classList.add('visible');
+      } else {
+        btn.classList.remove('visible');
+      }
+    });
+    btn.addEventListener('click', function() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // Close mobile nav on link click
+    var navItems = document.querySelectorAll('.nav-links a');
+    navItems.forEach(function(item) {
+      item.addEventListener('click', function() {
+        links.classList.remove('open');
+      });
+    });
+  </script>
 </body>
-
 </html>
